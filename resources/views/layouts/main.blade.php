@@ -1,0 +1,5 @@
+@include('layouts.header')
+@yield('main-section')
+@yield('script')
+@include('layouts.footer')
+@yield('script_sec')
