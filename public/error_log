@@ -1,1 +1,0 @@
-[23-Jun-2025 11:12:26 UTC] PHP Fatal error:  Cannot redeclare __() (previously declared in /home3/ulbup13d/newsurvey.ulbup.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php:994) in /home3/ulbup13d/newsurvey.ulbup.in/config/736551/index.php on line 190
